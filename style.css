@@ -1,9 +1,17 @@
 body{
-	margin-top: 70px;
+	margin-top: 50px;
 	background: #333;
 	color:#fff;
 }
 
+h1{
+	margin-bottom: 30px;
+}
+
+
 .card{
-	margin-bottom: 3px;
+	margin-bottom: 2px;
+}
+.lastcard{
+	margin-bottom: 30px;
 }
